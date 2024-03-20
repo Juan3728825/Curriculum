@@ -111,6 +111,12 @@ ul
     top: 0;
     right: 0;
 }
+
+.aside .nav-toggler
+{
+    height: 40px;
+    
+}
 .aside .nav
 {
     margin-top: 50px;
